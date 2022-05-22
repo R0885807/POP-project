@@ -1,0 +1,13 @@
+{
+  "name": "sass-exercises",
+  "version": "",
+  "description": "1ITF, Webdesign Advanced, Sass exercises",
+  "main": "",
+  "scripts": {
+    "watch": "live-server --port=8090",
+    "index.html": "cd index.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

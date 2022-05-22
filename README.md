@@ -6,4 +6,4 @@ Hier is de link naar de website, ik heb voorlopig de sinners hosting gebruikt: h
 
 De files van de code vindt u in onder de map "scratches"
 
-Een korte youtube video vindt u hier: https://youtu.be/Bx0kUd_CHYU
+Een korte youtube video vindt u hier: https://youtu.be/9HGFDz0wtx0

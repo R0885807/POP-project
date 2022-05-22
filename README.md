@@ -7,3 +7,5 @@ Hier is de link naar de website, ik heb voorlopig de sinners hosting gebruikt: h
 De files van de code vindt u in onder de map "scratches"
 
 Een korte youtube video vindt u hier: https://youtu.be/9HGFDz0wtx0
+
+Van Robbe Verbist - r0885807 - ITF-14
